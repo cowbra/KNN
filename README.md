@@ -1,2 +1,2 @@
 # KNN
- KNN Esilv A3
+Toutes les explications [ici](knn_final.ipynb)
